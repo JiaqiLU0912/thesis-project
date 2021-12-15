@@ -1,0 +1,5 @@
+- Audry, Sofian. 2021. Art in the Age of Machine Learning. Cambridge, MA: The MIT Press.
+- Soon, Winnie, and Geoff Cox. 2020. Aesthetic Programming: A Handbook of Software Studies. Open Humanities Press. https://www.aesthetic-programming.net https://gitlab.com/aesthetic-programming/book.
+- Zylinska, Joanna. 2020. AI Art: Machine Visions and Warped Dreams. Open Humanities Press.
+
+   
