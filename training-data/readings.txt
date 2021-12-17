@@ -5,6 +5,7 @@
 - Cox, Geoff. 2016. "Ways of Machine Seeing." Unthinking Photography. https://unthinking.photography/articles/ways-of-machine-seeing.
 - Dewey-Hagborg, Heather. 2018. "Generative Representation." Unthinking Photography. https://unthinking.photography/articles/generative-representation.
 - Estorick, Alex, and Beth Jochim. 2020. "Episode I. Artificial Intelligence and Drag Performance: Jake Elwes's 'The Zizi Project'." Flash Art. https://flash---art.com/2020/10/jake-elwess-the-zizi-project/.
+- Hui, Yuk. 2020. "For a Planetary Thinking." e-flux. https://www.e-flux.com/journal/114/366703/for-a-planetary-thinking/. 
 - Galloway, Alexander R. 2006. Protocol: How Control Exists after Decentralization. Cambridge, MA: MIT Press.
 - Khan, Nora N. 2019. "Seeing, Naming, Knowing." The Brooklyn Rail. https://brooklynrail.org/2019/03/art/Seeing-Naming-Knowing.
 - Malevé, Nicolas. 2016. "'The cat sits on the bed', Pedagogies of vision in human and machine learning." Unthinking Photography. https://unthinking.photography/articles/the-cat-sits-on-the-bed-pedagogies-of-vision-in-human-and-machine-learning.
@@ -20,4 +21,4 @@
 - Strecker, Alexander. 2017. "An Urgent Look at How Artificial Intelligence Will See the World." Lens Culture. https://www.lensculture.com/articles/trevor-paglen-an-urgent-look-at-how-artificial-intelligence-will-see-the-world.
 - Voon, Claire. 2017. "What a Photobook Curated By a Computer Can Teach Us." Hyperallergic. https://hyperallergic.com/397604/philipp-schmitt-computed-curation/.
 - Zylinska, Joanna. 2020. AI Art: Machine Visions and Warped Dreams. Open Humanities Press.
-
+ 
